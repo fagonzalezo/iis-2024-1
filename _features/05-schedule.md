@@ -82,6 +82,7 @@ image:
 				- [CS188-Berkeley] A* Search and Heuristics (<a href= "https://drive.google.com/file/d/1MeD3hvq0rQ_rA3KZ_3hBMnHPIK968b_Y/view">slides</a>)
 			</td>
 			<td>
+				<a href= "practica3.pdf">Práctica 3</a>
 			</td>
 		</tr>
 		<tr>

@@ -114,9 +114,25 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
+				Introducción a machine learning (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>): <br>
+				- 1. Kepler y Brahe (<a href= "https://drive.google.com/file/d/1Lrjgj6YlLYKtCjpawq5aDMCS3XO_NqBD/view?usp=drive_link">video</a> )<br>
+				- 2. Datos y ML (<a href= "https://drive.google.com/file/d/1zBe12VTZ-TnXbreMN0Lk-iQCYoR2mXWY/view?usp=drive_link">video</a> )<br>
+				- 3. 4 paradigmas de la ciencia (<a href= "https://drive.google.com/file/d/1771Sa40Wjxnq8VdxrA7PHaULhKOvYs18/view?usp=drive_link">video</a> )<br>
+				- 4. Definición e historia (<a href= "https://drive.google.com/file/d/1OhoqJuxaG6P2BwG3oAf9wnP9Ru0GPTnl/view?usp=drive_link">video</a> )<br>
+				- 5. Aprendizaje supervisado (<a href= "https://drive.google.com/file/d/1cYiiSmWfGzb3BGRViS7OAItrfUkUXQUN/view?usp=drive_link">video</a> )<br>
+				- 6. Aprendizaje no supervisado (<a href= "https://drive.google.com/file/d/1sP7bgXYfq3RCB0DntgVmtwqH194mcXhH/view?usp=drive_link">video</a> )<br>
+				- 7. Otros tipos de aprendizaje (<a href= "https://drive.google.com/file/d/1HI_EvXEI_FuCixqUDo-12iUXh-Fc6P4a/view?usp=drive_link">video</a> )<br>
+				- 8. Ejemplos de aplicación (<a href= "https://drive.google.com/file/d/1fVc-ehuYKz-VXHknfCkktK4ddVykUjuP/view?usp=drive_link">video</a> )<br>
+				- 9. El proceso de ML (<a href= "https://drive.google.com/file/d/1GaY6--ZJeEicP3LXAMbOMdD40ZFpcPAH/view?usp=drive_link">video</a> )<br>
+				- 10. Inducción de modelos a partir de datos(<a href= "https://drive.google.com/file/d/1bi3zeILsonjDNHeRlpyYXu71j9Vr9hJB/view?usp=drive_link">video</a> )<br>
+				- 11. Problemas mal condicionados (<a href= "https://drive.google.com/file/d/1LXp2XiW_6UZ3FJ0keM8GrbaEKIhym9sR/view?usp=drive_link">video</a> )<br>
+				- 12. Espacio de hipótesis y parsimonia (<a href= "https://drive.google.com/file/d/179yCq0CUUJHDvqbogRCvTHDoWE34yBkg/view?usp=drive_link">video</a> )<br>
 				<b>Recursos adicionales:</b><br>
+				[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 19.1, 19.2, 19.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+				Carl Saga, <a href= "https://www.youtube.com/watch?v=6fxBDk7eRMg">La armonía de los mundos </a>
 			</td>
 			<td>
+				<a href= "https://colab.research.google.com/drive/14Oqx2eBdePnkMKgv0Ov_wInHKJokufA_?usp=sharing">Práctica 4</a>	
 			</td>
 		</tr>
 		<tr>
@@ -126,9 +142,11 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
-				<b>Recursos adicionales:</b><br>
+				- [ai4eng] <a href= "https://fagonzalezo.github.io/ai4eng-unal/content/M03_videos.html">Generación de modelos</a><br>
 			</td>
 			<td>
+				LAB 03.01 - Model generation (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2003.01%20-%20MODEL%20GENERATION.html">notebook</a>, <a href= "https://youtu.be/Zj77iukp1LU">video</a>)<br>
+				LAB 03.02 - Time series model (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2003.02%20-%20TIMESERIES%20MODEL.html">notebook</a>, <a href= "https://youtu.be/Ts1VXW30hn8">video</a>)<br>
 			</td>
 		</tr>
 		<tr>

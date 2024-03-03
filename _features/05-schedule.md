@@ -114,7 +114,7 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
-				Introducción a machine learning (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>): <br>
+				<u>Introducción a machine learning</u> (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>): <br>
 				- 1. Kepler y Brahe (<a href= "https://drive.google.com/file/d/1Lrjgj6YlLYKtCjpawq5aDMCS3XO_NqBD/view?usp=drive_link">video</a> )<br>
 				- 2. Datos y ML (<a href= "https://drive.google.com/file/d/1zBe12VTZ-TnXbreMN0Lk-iQCYoR2mXWY/view?usp=drive_link">video</a> )<br>
 				- 3. 4 paradigmas de la ciencia (<a href= "https://drive.google.com/file/d/1771Sa40Wjxnq8VdxrA7PHaULhKOvYs18/view?usp=drive_link">video</a> )<br>
@@ -127,7 +127,7 @@ image:
 				- 10. Inducción de modelos a partir de datos(<a href= "https://drive.google.com/file/d/1bi3zeILsonjDNHeRlpyYXu71j9Vr9hJB/view?usp=drive_link">video</a> )<br>
 				- 11. Problemas mal condicionados (<a href= "https://drive.google.com/file/d/1LXp2XiW_6UZ3FJ0keM8GrbaEKIhym9sR/view?usp=drive_link">video</a> )<br>
 				- 12. Espacio de hipótesis y parsimonia (<a href= "https://drive.google.com/file/d/179yCq0CUUJHDvqbogRCvTHDoWE34yBkg/view?usp=drive_link">video</a> )<br>
-				Clasifición binaria usando un modelos lineal (<a href= "https://colab.research.google.com/drive/1J4p2g0xbRUS5u6-whz9vWUABiGZvuneA?usp=sharing">notebook</a>): <br>
+				<u>Clasifición binaria usando un modelo lineal</u> (<a href= "https://colab.research.google.com/drive/1J4p2g0xbRUS5u6-whz9vWUABiGZvuneA?usp=sharing">notebook</a>): <br>
 				- 1. Un modelo sencillo de clasificación (<a href= "https://drive.google.com/file/d/16mmR65PoyjM4znB27FcX6r4-g5_fDdoY/view?usp=drive_link">video</a> ) <br>
 				- 2. Función lineal (<a href= "https://drive.google.com/file/d/1q6dS6TLU1E-d0eRqXHmBo1_2VMFtYnnv/view?usp=drive_link">video</a> ) <br>
 				- 3. Cómo distinguir entre dos clases (<a href= "https://drive.google.com/file/d/1WdCl9Y_WSH2zogl4pgOGMj-MmKHpIZIm/view?usp=drive_link">video</a> ) <br>

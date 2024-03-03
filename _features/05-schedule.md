@@ -121,7 +121,7 @@ image:
 				- 4. Definición e historia (<a href= "https://drive.google.com/file/d/1OhoqJuxaG6P2BwG3oAf9wnP9Ru0GPTnl/view?usp=drive_link">video</a> )<br>
 				- 5. Aprendizaje supervisado (<a href= "https://drive.google.com/file/d/1cYiiSmWfGzb3BGRViS7OAItrfUkUXQUN/view?usp=drive_link">video</a> )<br>
 				- 6. Aprendizaje no supervisado (<a href= "https://drive.google.com/file/d/1sP7bgXYfq3RCB0DntgVmtwqH194mcXhH/view?usp=drive_link">video</a> )<br>
-				- 7. Otros tipos de aprendizaje (<a href= "https://drive.google.com/file/d/1HI_EvXEI_FuCixqUDo-12iUXh-Fc6P4a/view?usp=drive_link">video</a> )<br>
+				- 7. Otros tipos de aprendizaje (<a href= "https://drive.google.com/file/d/1ALiuokOGbO1OGL2eUC1wYvdMKAnDlzRb/view?usp=sharing">video</a> )<br>
 				- 8. Ejemplos de aplicación (<a href= "https://drive.google.com/file/d/1fVc-ehuYKz-VXHknfCkktK4ddVykUjuP/view?usp=drive_link">video</a> )<br>
 				- 9. El proceso de ML (<a href= "https://drive.google.com/file/d/1GaY6--ZJeEicP3LXAMbOMdD40ZFpcPAH/view?usp=drive_link">video</a> )<br>
 				- 10. Inducción de modelos a partir de datos(<a href= "https://drive.google.com/file/d/1bi3zeILsonjDNHeRlpyYXu71j9Vr9hJB/view?usp=drive_link">video</a> )<br>
@@ -140,7 +140,7 @@ image:
 				- 10. Cálculo del gradiente (<a href= "https://drive.google.com/file/d/11EoSaU6shh_mCPD4qWE013KSzOYq7uc3/view?usp=sharing">video</a> ) <br>
 				- 11. Gradiente descendente en batch (<a href= "https://drive.google.com/file/d/1ZMCn0S_QvWgILiI9viEFk5c_OMR3q3_R/view?usp=drive_link">video</a> ) <br>
 				- 12. Gradiente descendente estocástico (<a href= "https://drive.google.com/file/d/1NsfSNISSvHZFUwGNIsQ1H0qWGkegqD3P/view?usp=drive_link">video</a> ) <br>
-				- 13. Función de predicción aprendida(<a href= "https://drive.google.com/file/d/1jJajjRAVlK8vZx-WhOeF0v-6JjUgoHVC/view?usp=drive_link">video</a> ) <br>
+				- 13. Función de predicción aprendida (<a href= "https://drive.google.com/file/d/1jJajjRAVlK8vZx-WhOeF0v-6JjUgoHVC/view?usp=drive_link">video</a> ) <br>
 				<b>Recursos adicionales:</b><br>
 				[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 19.1, 19.2, 19.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 				Carl Saga, <a href= "https://www.youtube.com/watch?v=6fxBDk7eRMg">La armonía de los mundos </a>

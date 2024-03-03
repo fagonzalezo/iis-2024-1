@@ -127,6 +127,20 @@ image:
 				- 10. Inducción de modelos a partir de datos(<a href= "https://drive.google.com/file/d/1bi3zeILsonjDNHeRlpyYXu71j9Vr9hJB/view?usp=drive_link">video</a> )<br>
 				- 11. Problemas mal condicionados (<a href= "https://drive.google.com/file/d/1LXp2XiW_6UZ3FJ0keM8GrbaEKIhym9sR/view?usp=drive_link">video</a> )<br>
 				- 12. Espacio de hipótesis y parsimonia (<a href= "https://drive.google.com/file/d/179yCq0CUUJHDvqbogRCvTHDoWE34yBkg/view?usp=drive_link">video</a> )<br>
+				Clasifición binaria usando un modelos lineal (<a href= "https://colab.research.google.com/drive/1J4p2g0xbRUS5u6-whz9vWUABiGZvuneA?usp=sharing">notebook</a>): <br>
+				- 1. Un modelo sencillo de clasificación (<a href= "https://drive.google.com/file/d/16mmR65PoyjM4znB27FcX6r4-g5_fDdoY/view?usp=drive_link">video</a> ) <br>
+				- 2. Función lineal (<a href= "https://drive.google.com/file/d/1q6dS6TLU1E-d0eRqXHmBo1_2VMFtYnnv/view?usp=drive_link">video</a> ) <br>
+				- 3. Cómo distinguir entre dos clases (<a href= "https://drive.google.com/file/d/1WdCl9Y_WSH2zogl4pgOGMj-MmKHpIZIm/view?usp=drive_link">video</a> ) <br>
+				- 4. Discriminación lineal (<a href= "https://drive.google.com/file/d/1cw3hQZtO3NLEcwJsHhQACkHbrUyQuLVv/view?usp=drive_link">video</a> ) <br>
+				- 5. Función de pérdida (<a href= "https://drive.google.com/file/d/19DBdupZudBv2eJ9kV0XkUa-mgdb0qmzQ/view?usp=drive_link">video</a> ) <br>
+				- 6. Implementación de la función de pérdida (<a href= "https://drive.google.com/file/d/15n9OZtvl4oMaLSJnAfQQrF7RyfLUX2Gj/view?usp=drive_link">video</a> ) <br>
+				- 7. Gradiente descendente (<a href= "https://drive.google.com/file/d/1yvocDlL7wZWc7MnoaEn_YFchIfnldTKW/view?usp=drive_link">video</a> ) <br>
+				- 8. Algoritmo de gradiente descendente (<a href= "https://drive.google.com/file/d/1KmALbaxwAnqQCxBHaRjqErvgGtC6UVd0/view?usp=drive_link">video</a> ) <br>
+				- 9. Tamaño del paso (<a href= "https://drive.google.com/file/d/1RAW88wnC3d7PL7UC1ux7624n1A4C-h1t/view?usp=drive_link">video</a> ) <br>
+				- 10. Cálculo del gradiente (<a href= "https://drive.google.com/file/d/11EoSaU6shh_mCPD4qWE013KSzOYq7uc3/view?usp=sharing">video</a> ) <br>
+				- 11. Gradiente descendente en batch (<a href= "https://drive.google.com/file/d/1ZMCn0S_QvWgILiI9viEFk5c_OMR3q3_R/view?usp=drive_link">video</a> ) <br>
+				- 12. Gradiente descendente estocástico (<a href= "https://drive.google.com/file/d/1NsfSNISSvHZFUwGNIsQ1H0qWGkegqD3P/view?usp=drive_link">video</a> ) <br>
+				- 13. Función de predicción aprendida(<a href= "https://drive.google.com/file/d/1jJajjRAVlK8vZx-WhOeF0v-6JjUgoHVC/view?usp=drive_link">video</a> ) <br>
 				<b>Recursos adicionales:</b><br>
 				[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 19.1, 19.2, 19.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 				Carl Saga, <a href= "https://www.youtube.com/watch?v=6fxBDk7eRMg">La armonía de los mundos </a>

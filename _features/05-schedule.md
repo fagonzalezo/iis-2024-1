@@ -143,7 +143,7 @@ image:
 				- 13. Función de predicción aprendida (<a href= "https://drive.google.com/file/d/1jJajjRAVlK8vZx-WhOeF0v-6JjUgoHVC/view?usp=drive_link">video</a> ) <br>
 				<b>Recursos adicionales:</b><br>
 				[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 19.1, 19.2, 19.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
-				Carl Saga, <a href= "https://www.youtube.com/watch?v=6fxBDk7eRMg">La armonía de los mundos </a>
+				Carl Sagan, <a href= "https://www.youtube.com/watch?v=6fxBDk7eRMg">La armonía de los mundos </a>
 			</td>
 			<td>
 				<a href= "https://colab.research.google.com/drive/14Oqx2eBdePnkMKgv0Ov_wInHKJokufA_?usp=sharing">Práctica 4</a>	
@@ -161,6 +161,7 @@ image:
 			<td>
 				LAB 03.01 - Model generation (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2003.01%20-%20MODEL%20GENERATION.html">notebook</a>, <a href= "https://youtu.be/Zj77iukp1LU">video</a>)<br>
 				LAB 03.02 - Time series model (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2003.02%20-%20TIMESERIES%20MODEL.html">notebook</a>, <a href= "https://youtu.be/Ts1VXW30hn8">video</a>)<br>
+				<a href= "practica4.5">Práctica 4.5</a>	
 			</td>
 		</tr>
 		<tr>

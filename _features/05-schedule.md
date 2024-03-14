@@ -171,9 +171,25 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
+				- 1. Introducción (<a href= "https://drive.google.com/file/d/1tA15FYGKstFKT3IeaLCECzwLs4TJ4839/view?usp=drive_link">video</a>)<br>
+				- 2. Probabilidad condicional (<a href= "https://drive.google.com/file/d/1fTPzgnHdexoaiBTxrsA4Z-0uJHNEyqhU/view?usp=drive_link">video</a>)<br>
+				- 3. Teorema de Bayes (<a href= "https://drive.google.com/file/d/1QHg8BpciSy1uE8vvUPMA43FGg5jDgGxT/view?usp=drive_link">video</a>)<br>
+				- 4. Aplicación del teorema de Bayes (<a href= "https://drive.google.com/file/d/1nekoaso4UtVv9kPz-j_aRpo6RZHZVrg8/view?usp=drive_link">video</a>)<br>
+				- 5. Teorema de Bayes y clasificación (<a href= "https://drive.google.com/file/d/1x1we1dbtUplUH5qdBA8jB3tGzQyTvU7F/view?usp=drive_link">video</a>)<br>
+				- 6. Clasificadores Bayesianos (<a href= "https://drive.google.com/file/d/1RLl03KRxMsSEq-G74tbcpM8uKb_-63ct/view?usp=drive_link">video</a>)<br>
+				- 7. Clasificador Naïve Bayes (<a href= "https://drive.google.com/file/d/127vYVSW28YyGaf8sU2EFep5hY-lp_Qor/view?usp=drive_link">video</a>)<br>
+				- 8. Naïve Bayes entrenamiento (<a href= "https://drive.google.com/file/d/1f4m0Q5QviXInj8zp7qhuEEBAmjJIvD9f/view?usp=drive_link">video</a>)<br>
+				- 9. Estimación atributos discretos (<a href= "https://drive.google.com/file/d/1LoPTxNwdnAYmqKuAM6iGJ_twb32t8CSn/view?usp=drive_link">video</a>)<br>
+				- 10. Estimación atributos continuos (<a href= "https://drive.google.com/file/d/1l5znqb32nHXgpf0lVAZTtg_Ou8xacGOF/view?usp=drive_link">video</a>)<br>
+				- 11. Predicción (<a href= "https://drive.google.com/file/d/1L6tqYJgAVNYxGvSB54GUZeAeBjSppVEG/view?usp=drive_link">video</a>)<br>
+				- 12. Corrección de estimación (<a href= "https://drive.google.com/file/d/1zU96NyGLxI0RkKnO6nAs3jedhfe-wnYP/view?usp=drive_link">video</a>)<br>
 				<b>Recursos adicionales:</b><br>
+				[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Chapter 12 (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>) <br>
+				[CS188-Berkeley] Naïve Bayes 1 (<a href= "https://drive.google.com/file/d/1UsK1jh8Jubhu9FUjbyWxo9_SpPVSO-xU/view?usp=sharing">slides</a>) (<a href= "https://youtube.com/playlist?list=PLp8QV47qJEg6yEhPmdSA0Eto31Nbo7d2F">video</a>)<br>
+				[CS188-Berkeley] Naïve Bayes 2 (<a href= "https://drive.google.com/file/d/1Z5dx5N0oB8rTlOjoFfS35naoJgg71FV7/view?usp=sharing">slides</a>) (<a href= "https://youtube.com/playlist?list=PLp8QV47qJEg4rxB7oob8tO_0tD4gUnQnM">video</a>)<br>
 			</td>
 			<td>
+				<a href= "practica5.pdf">Práctica 5</a>	
 			</td>
 		</tr>
 		<tr>

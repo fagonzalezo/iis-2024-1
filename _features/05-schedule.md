@@ -199,9 +199,11 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
-				<b>Recursos adicionales:</b><br>
+				- [ai4eng] <a href= "https://fagonzalezo.github.io/ai4eng-unal/content/M04_videos.html">Gestión de datos</a><br>
 			</td>
 			<td>
+				LAB 04.01 - Cleaning data (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2004.01%20-%20CLEANING%20DATA.html">notebook</a>, <a href= "https://youtu.be/mb0fH3AXhZ4">video</a>)<br>
+				LAB 04.02 - Building datasets (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2004.02%20-%20BUILDING%20DATASETS.html">notebook</a>, <a href= "https://youtu.be/mb0fH3AXhZ4">video</a>)<br>
 			</td>
 		</tr>
 		<tr>

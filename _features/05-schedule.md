@@ -193,7 +193,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 1</td>
+			<td>Abr 1-8</td>
 			<td>
 			4.3 Exploración y preparación de datos
 			</td>
@@ -207,7 +207,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 8</td>
+			<td>Abr 15</td>
 			<td>
 			3.3.3 Arboles de decisión
 			</td>
@@ -219,7 +219,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 15</td>
+			<td>Abr 22</td>
 			<td>
 			4.4 Evaluación de modelos<br>
 			4.5 Selección de modelos
@@ -232,7 +232,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 22</td>
+			<td>Abr 29</td>
 			<td>
 			3.3.4 Redes neuronales
 			</td>
@@ -244,7 +244,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 29</td>
+			<td>May 6</td>
 			<td>
 			4.6 Redes neuronales y Tensorflow
 			</td>
@@ -256,7 +256,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 6</td>
+			<td>May 13</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.1 Reducción de la dimensionalidad<br>
@@ -270,7 +270,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 13</td>
+			<td>May 20</td>
 			<td>
 			4.8 Desarrollo de modelos no supervisados
 			</td>
@@ -282,7 +282,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 20</td>
+			<td>May 27</td>
 			<td></td>
 			<td>
 				<b>Clase asíncrona:</b><br>

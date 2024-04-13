@@ -213,7 +213,22 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
+				- 1. Problema de clasificación del restaurante (<a href= "https://drive.google.com/file/d/1e368oyUTysxSRHdNsSeflNwdL4S37rBf/view?usp=drive_link">video</a>)<br>
+				- 2. Arboles de decisión (<a href= "https://drive.google.com/file/d/1f2Lyw-iGiTzAOBlH5tSeBnlDVgXd2tGF/view?usp=drive_link">video</a>)<br>		
+				- 3. Expresvidad (<a href= "https://drive.google.com/file/d/1AlWw_LkalLBIXwCed25OCAX9_tN_4_M1/view?usp=drive_link">video</a>)<br>		
+				- 4. Espacio de búsqueda (<a href= "https://drive.google.com/file/d/1vtRgRMONtIOZgNCrQ9JCIT_PhtJ-ZWJA/view?usp=drive_link">video</a>)<br>		
+				- 5. Intuición del algoritmo  (<a href= "https://drive.google.com/file/d/1DAn8WoRSpSBrjbzujjxza_HsQha7EQLw/view?usp=drive_link">video</a>)<br>		
+				- 6. Algoritmo de inducción árboles de decisión(<a href= "https://drive.google.com/file/d/1jBKQgLfQa6GkYJKIyppwxrPOZZenYCgD/view?usp=drive_link">video</a>)<br>		
+				- 7. Selección del nodo raiz (<a href= "https://drive.google.com/file/d/1yKceYDqLZ-xMl3lpqsXokCel7n8SW1wb/view?usp=drive_link">video</a>)<br>		
+				- 8. ¿Cómo medir la información? (<a href= "https://drive.google.com/file/d/1Z4_S03OzCgzFNrXJ06afuFJ0udgeHa1B/view?usp=drive_link">video</a>)<br>		
+				- 9. Entroía (<a href= "https://drive.google.com/file/d/1W57ELKUcDRR2JWw9OtPYIK90GNSaBR6z/view?usp=drive_link">video</a>)<br>		
+				- 10. Cálculo de la entropía (<a href= "https://drive.google.com/file/d/1KT4E_GJrxBQvZpAm0SH0zi8npEw4od2j/view?usp=drive_link">video</a>)<br>		
+				- 11. Ganancia de información (<a href= "https://drive.google.com/file/d/1UnaPh4VjIR3F5rR7cJvvEF3sTRnihJll/view?usp=drive_link">video</a>)<br>		
+				- 12. Probabilidades a partir de los datos (<a href= "https://drive.google.com/file/d/15HmL6nMZCXj84eqMTGvT9LIUwkin-0ts/view?usp=drive_link">video</a>)<br>		
+				- 13. Entropía ponderada (<a href= "https://drive.google.com/file/d/1NrknQWiFqn52nq4UckiVJtw3mokXo6Q7/view?usp=drive_link">video</a>)<br>		
+				- 14. Selección de atributos (<a href= "https://drive.google.com/file/d/1O5gwxaAg7hBTVzRJ30tp-eIeJTU4KJn5/view?usp=drive_link">video</a>)<br>				
 				<b>Recursos adicionales:</b><br>
+				[Russell10] Sect 19.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>)<br>
 			</td>
 			<td>
 			</td>

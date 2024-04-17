@@ -231,6 +231,7 @@ image:
 				[Russell10] Sect 19.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>)<br>
 			</td>
 			<td>
+				<a href= "practica6.pdf">Práctica 6</a><br>
 			</td>
 		</tr>
 		<tr>

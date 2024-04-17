@@ -241,10 +241,12 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
-				<b>Recursos adicionales:</b><br>
+				- [ai4eng] <a href= "https://fagonzalezo.github.io/ai4eng-unal/content/M05_videos.html">Gestión de modelos</a><br>
 			</td>
 			<td>
-			</td>
+				LAB 05.01 - Prediction impact (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2005.01%20-%20MEASURING%20PREDICTIVITY%20IMPACT.html">notebook</a>, <a href= "https://youtu.be/UvoAvi-c6w4">video</a>)<br>
+				LAB 05.02 - Model evaluation (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2005.02%20-%20MODEL%20EVALUATION.html">notebook</a>, <a href= "https://youtu.be/NTS1KsF7ldg">video</a>)<br>
+			</td>		
 		</tr>
 		<tr>
 			<td>Abr 29</td>

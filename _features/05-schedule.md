@@ -261,7 +261,7 @@ image:
 				-  3. Función de activación y umbral (<a href= "https://drive.google.com/file/d/1iIn3iSCSzwqPK_DA46-CWEY5uzZt89Nc/view?usp=drive_link">video</a>)<br>
 				-  4. Función XOR (<a href= "https://drive.google.com/file/d/1vJ6n5pRxt0Uxz7r38tavNIYuUJ0H8azQ/view?usp=drive_link">video</a>)<br>
 				-  5. Clase MLPClassifier en Scikit-Learn (<a href= "https://drive.google.com/file/d/1mBwNjWyL1YQ5p3ZWZ1lTJF04OOsblcMf/view?usp=drive_link">video</a>)<br>
-				-  6. Ejemplo red neuronal (<a href= https://drive.google.com/file/d/1gvui01um1zoI02gaUVYACu0qgm5wAXmW/view?usp=drive_link">video</a>)<br>
+				-  6. Ejemplo red neuronal (<a href= "https://drive.google.com/file/d/1gvui01um1zoI02gaUVYACu0qgm5wAXmW/view?usp=drive_link">video</a>)<br>
 				-  7. Neural Network Playground 1 (<a href= "https://drive.google.com/file/d/1iqp85uWLrcu7b4d5eDUQ9x7QSE6D5Ukp/view?usp=drive_link">video</a>)<br>
 				-  8. Neural Network Playground 2 (<a href= "https://drive.google.com/file/d/1k0VY1ELiI9it8iNDIeyAE1geaWL5Pa0Y/view?usp=drive_link">video</a>)<br>
 				-  9. Optimización aleatoria de parámetros (<a href= "https://drive.google.com/file/d/1oPb68weXOTY6ELTOhUohBbtFXD37Lm37/view?usp=drive_link">video</a>)<br>
@@ -282,10 +282,12 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
-				<b>Recursos adicionales:</b><br>
+				- [ai4eng] <a href= "https://fagonzalezo.github.io/ai4eng-unal/content/M07_videos.html">Diseño de algoritmos</a><br>
 			</td>
 			<td>
-			</td>
+				LAB 07.01 - Optimization for ML (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2007.01%20-%20OPTIMIZATION%20FOR%20ML.html">notebook</a>, <a href= "https://youtu.be/6mDg3sWTwPM">video</a>)<br>
+				LAB 07.02 - Neural networks (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2007.02%20-%20NEURAL%20NETWORKS.html">notebook</a>, <a href= "https://youtu.be/6mDg3sWTwPM">video</a>)<br>
+			</td>		
 		</tr>
 		<tr>
 			<td>May 13</td>

@@ -256,9 +256,23 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
+				-  1. Perceptrón (<a href= "https://drive.google.com/file/d/1VLnzEjuR4nU6ZWhSx3hbyszzurCDC3e-/view?usp=drive_link">video</a>)<br>
+				-  2. Función AND (<a href= "https://drive.google.com/file/d/1o0cbaMDiHlsTctOESAcRaRhFELu6koDh/view?usp=drive_link">video</a>)<br>
+				-  3. Función de activación y umbral (<a href= "https://drive.google.com/file/d/1iIn3iSCSzwqPK_DA46-CWEY5uzZt89Nc/view?usp=drive_link">video</a>)<br>
+				-  4. Función XOR (<a href= "https://drive.google.com/file/d/1vJ6n5pRxt0Uxz7r38tavNIYuUJ0H8azQ/view?usp=drive_link">video</a>)<br>
+				-  5. Clase MLPClassifier en Scikit-Learn (<a href= "https://drive.google.com/file/d/1mBwNjWyL1YQ5p3ZWZ1lTJF04OOsblcMf/view?usp=drive_link">video</a>)<br>
+				-  6. Ejemplo red neuronal (<a href= https://drive.google.com/file/d/1gvui01um1zoI02gaUVYACu0qgm5wAXmW/view?usp=drive_link">video</a>)<br>
+				-  7. Neural Network Playground 1 (<a href= "https://drive.google.com/file/d/1iqp85uWLrcu7b4d5eDUQ9x7QSE6D5Ukp/view?usp=drive_link">video</a>)<br>
+				-  8. Neural Network Playground 2 (<a href= "https://drive.google.com/file/d/1k0VY1ELiI9it8iNDIeyAE1geaWL5Pa0Y/view?usp=drive_link">video</a>)<br>
+				-  9. Optimización aleatoria de parámetros (<a href= "https://drive.google.com/file/d/1oPb68weXOTY6ELTOhUohBbtFXD37Lm37/view?usp=drive_link">video</a>)<br>
 				<b>Recursos adicionales:</b><br>
+					<a href= "https://colab.research.google.com/drive/167WK7Ts3Z5gVhPshFwFh0F36PyzZev_4?usp=sharing">Notebook: Redes Neuronales</a><br>
+					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
+					<a href= "https://playground.tensorflow.org/">Neural Network Playground</a><br>
 			</td>
 			<td>
+				<a href= "practica7.pdf">Práctica 7</a><br>
 			</td>
 		</tr>
 		<tr>

@@ -216,7 +216,7 @@ image:
 				- 1. Problema de clasificación del restaurante (<a href= "https://drive.google.com/file/d/1e368oyUTysxSRHdNsSeflNwdL4S37rBf/view?usp=drive_link">video</a>)<br>
 				- 2. Arboles de decisión (<a href= "https://drive.google.com/file/d/1f2Lyw-iGiTzAOBlH5tSeBnlDVgXd2tGF/view?usp=drive_link">video</a>)<br>		
 				- 3. Expresvidad (<a href= "https://drive.google.com/file/d/1AlWw_LkalLBIXwCed25OCAX9_tN_4_M1/view?usp=drive_link">video</a>)<br>		
-				- 4. Espacio de búsqueda (<a href= "https://drive.google.com/file/d/1vtRgRMONtIOZgNCrQ9JCIT_PhtJ-ZWJA/view?usp=drive_link">video</a>)<br>		
+				- 4. Espacio de hipótesis (<a href= "https://drive.google.com/file/d/1vtRgRMONtIOZgNCrQ9JCIT_PhtJ-ZWJA/view?usp=drive_link">video</a>)<br>		
 				- 5. Intuición del algoritmo  (<a href= "https://drive.google.com/file/d/1DAn8WoRSpSBrjbzujjxza_HsQha7EQLw/view?usp=drive_link">video</a>)<br>		
 				- 6. Algoritmo de inducción árboles de decisión(<a href= "https://drive.google.com/file/d/1jBKQgLfQa6GkYJKIyppwxrPOZZenYCgD/view?usp=drive_link">video</a>)<br>		
 				- 7. Selección del nodo raiz (<a href= "https://drive.google.com/file/d/1yKceYDqLZ-xMl3lpqsXokCel7n8SW1wb/view?usp=drive_link">video</a>)<br>		

@@ -250,7 +250,7 @@ image:
 			</td>		
 		</tr>
 		<tr>
-			<td>Abr 29</td>
+			<td>Mayo 6</td>
 			<td>
 			3.3.4 Redes neuronales
 			</td>
@@ -276,7 +276,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 6</td>
+			<td>May 13</td>
 			<td>
 			4.6 Redes neuronales y Tensorflow
 			</td>
@@ -290,7 +290,7 @@ image:
 			</td>		
 		</tr>
 		<tr>
-			<td>May 13</td>
+			<td>May 20</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.1 Clustering
@@ -315,7 +315,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 20</td>
+			<td>May 27</td>
 			<td>
 			4.8 Desarrollo de modelos no supervisados
 			</td>
@@ -330,7 +330,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 27</td>
+			<td>Jun 3</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.2 Reducción de la dimensionalidad<br>

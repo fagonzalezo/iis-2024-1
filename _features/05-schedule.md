@@ -293,14 +293,25 @@ image:
 			<td>May 13</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
-			3.4.1 Reducción de la dimensionalidad<br>
-			3.4.2 Clustering
+			3.4.1 Clustering
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
+				- 1. Clustering (<a href= "https://drive.google.com/file/d/1P-8p1IbCR_UK-qymuMahUbCvwY1vfqwZ/view?usp=drive_link">video</a> 6m)<br>
+				- 2. K-means (<a href= "https://drive.google.com/file/d/1RkvtvxIj5to3gEsIsWHkbxh_H6tJIzI6/view?usp=drive_link">video</a> 3m)<br>
+				- 3. Visualización de K-means (<a href= "https://drive.google.com/file/d/1jEkwfnKzUgt-nRUcsTWx6aGsrVQmbm8R/view?usp=drive_link">video</a> 5.5m)<br>
+				- 4. Algoritmos e implementación (<a href= "https://drive.google.com/file/d/1NN-Jus2BSQzXcAtkz7vM4WKf5w8nQq3Q/view?usp=drive_link">video</a> 5m)<br>
+				- 5. Ejemplos (<a href= "https://drive.google.com/file/d/1brjfsa4Ba1XHKHS_ZFknFiYRVMfDtxr0/view?usp=sharing">video</a> 4m)<br>
+				- 6. Medidas de desempeño (<a href= "https://drive.google.com/file/d/1Vgv0v6rE2zVcuTMm5p-SnTtV6YF1Cbp-/view?usp=drive_link">video</a> 4m)<br>
+				- 7. Selección de K (<a href= "https://drive.google.com/file/d/12yVmblMzSjeoC0JHymr5RfLYpD4hjFxu/view?usp=drive_link">video</a> 5.5m)<br>
+				- 8. Coeficiente de silueta (<a href= "https://drive.google.com/file/d/1R4TLMFObhP5U9QqGj5d1vMyHTSeFvFFp/view?usp=drive_link">video</a> 5.5m)<br>
+				- 9. Selección de K con CS (<a href= "https://drive.google.com/file/d/1V8r9j0d_H52DWUr_RvzVCvwW0x8j3U-X/view?usp=drive_link">video</a> 2m)<br>
+				- 10. Otros modelos de clustering (<a href= "https://drive.google.com/file/d/1GmqfvB3k-P81FCFqorIjbUJ-ujetO9cW/view?usp=drive_link">video</a> 5m)<br>
 				<b>Recursos adicionales:</b><br>
+				<a href= "https://colab.research.google.com/drive/1_0Ipc_RqFNwBrVAc3HY4rZfDpKLHrbgR?usp=sharing">Notebook: Agrupamiento</a><br>
 			</td>
 			<td>
+				<a href= "practica8.pdf">Práctica 8</a><br>
 			</td>
 		</tr>
 		<tr>
@@ -310,16 +321,35 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
-				<b>Recursos adicionales:</b><br>
+				- [ai4eng] <a href= "https://fagonzalezo.github.io/ai4eng-unal/content/M06_videos.html">Métodos no supervisados</a><br>
+			</td>
+			<td>
+				LAB 06.01 - Clustering companies (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2006.01%20-%20CLUSTERING.html">notebook</a>, <a href= https://youtu.be/RFLjtLnr-XU">video</a>)<br>
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
 			<td>May 27</td>
-			<td></td>
+			<td>
+			3.4 Aprendizaje no supervisado<br>
+			3.4.2 Reducción de la dimensionalidad<br>
+			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
+				-  (<a href= "">video</a> m)<br>
 				<b>Recursos adicionales:</b><br>
 			</td>
 			<td>

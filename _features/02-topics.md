@@ -38,9 +38,9 @@ image:
 
 3.4 Aprendizaje no supervisado
 
-3.4.1 Reducción de la dimensionalidad
+3.4.1 Clustering 
 
-3.4.2 Clustering 
+3.4.2 Reducción de la dimensionalidad
 
 4 **Machine learning en la práctica**
 

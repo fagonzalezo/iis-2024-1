@@ -324,7 +324,7 @@ image:
 				- [ai4eng] <a href= "https://fagonzalezo.github.io/ai4eng-unal/content/M06_videos.html">Métodos no supervisados</a><br>
 			</td>
 			<td>
-				LAB 06.01 - Clustering companies (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2006.01%20-%20CLUSTERING.html">notebook</a>, <a href= https://youtu.be/RFLjtLnr-XU">video</a>)<br>
+				LAB 06.01 - Clustering companies (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2006.01%20-%20CLUSTERING.html">notebook</a>, <a href= "https://youtu.be/RFLjtLnr-XU">video</a>)<br>
 			</td>
 			<td>
 			</td>

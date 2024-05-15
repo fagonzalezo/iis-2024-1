@@ -287,6 +287,9 @@ image:
 			<td>
 				LAB 07.01 - Optimization for ML (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2007.01%20-%20OPTIMIZATION%20FOR%20ML.html">notebook</a>, <a href= "https://youtu.be/6mDg3sWTwPM">video</a>)<br>
 				LAB 07.02 - Neural networks (<a href= "https://fagonzalezo.github.io/ai4eng-unal/content/LAB%2007.02%20-%20NEURAL%20NETWORKS.html">notebook</a>, <a href= "https://youtu.be/6mDg3sWTwPM">video</a>)<br>
+				<br>
+				<br>
+				<a href= "practica8.pdf">Práctica 8</a><br>
 			</td>		
 		</tr>
 		<tr>
@@ -311,7 +314,7 @@ image:
 				<a href= "https://colab.research.google.com/drive/1_0Ipc_RqFNwBrVAc3HY4rZfDpKLHrbgR?usp=sharing">Notebook: Agrupamiento</a><br>
 			</td>
 			<td>
-				<a href= "practica8.pdf">Práctica 8</a><br>
+				<!-- <a href= "practica8.pdf">Práctica 8</a><br> -->
 			</td>
 		</tr>
 		<tr>

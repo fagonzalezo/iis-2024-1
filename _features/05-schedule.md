@@ -290,6 +290,7 @@ image:
 				<br>
 				<br>
 				<a href= "practica8.pdf">Práctica 8</a><br>
+				<a href= "proyecto_final.pdf">Proyecto Final</a><br>
 			</td>		
 		</tr>
 		<tr>

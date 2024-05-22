@@ -315,7 +315,7 @@ image:
 				<a href= "https://colab.research.google.com/drive/1_0Ipc_RqFNwBrVAc3HY4rZfDpKLHrbgR?usp=sharing">Notebook: Agrupamiento</a><br>
 			</td>
 			<td>
-				<!-- <a href= "practica8.pdf">Práctica 8</a><br> -->
+				<a href= "practica9.pdf">Práctica 9</a><br>
 			</td>
 		</tr>
 		<tr>

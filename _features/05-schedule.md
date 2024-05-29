@@ -341,20 +341,21 @@ image:
 			</td>
 			<td>
 				<b>Clase asíncrona:</b><br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
-				-  (<a href= "">video</a> m)<br>
+				-  1. Intro reducción de dimensionalidad (<a href= "https://drive.google.com/file/d/1ObAUgootbrHZRQPHFPBFyPwoUJTW7znz/view?usp=drive_link">video</a> m)<br>
+				-  2. Varianza e información (<a href= "https://drive.google.com/file/d/1WGTmDz2-bGYluRG7t6O1DY-Tnwl4ihh9/view?usp=drive_link">video</a> m)<br>
+				-  3. Direcciones de máxima varianza (<a href= "https://drive.google.com/file/d/1tKn88Wv3nENTUjhXFXpVEiN3WLhq7s9D/view?usp=drive_link">video</a> m)<br>
+				-  4. Análisis de componentes principales (PCA) (<a href= "https://drive.google.com/file/d/13OooaHB1lvpMRG0-N4xNUFPzAYmYNwTB/view?usp=drive_link">video</a> m)<br>
+				-  5. Aplicación PCA (<a href= "https://drive.google.com/file/d/1fFqQyzt2lQ6NagB5dMpq4lPa3EdNOIzi/view?usp=drive_link">video</a> m)<br>
+				-  6. Algebra lineal de PCA (<a href= "https://drive.google.com/file/d/1g99LaeA9OL-K0btjgYLcXjkPjCmjots4/view?usp=drive_link">video</a> m)<br>
+				-  7. Singular Value Decomposition (<a href= "https://drive.google.com/file/d/1ngVMw-DT1H2C85jTPYiIwb1ZnRUUnlVr/view?usp=drive_link">video</a> m)<br>
+				-  8. Transformación de los datos PCA (<a href= "https://drive.google.com/file/d/1VMqoIRklzLn0sFfyM3JzC5DyvWSTU796/view?usp=drive_link">video</a> m)<br>
+				-  9. Ejemplo dataset Wine (<a href= "https://drive.google.com/file/d/1gRIjc2WR5Vz-66jCgYdMvTA8OhMH3Cdc/view?usp=drive_link">video</a> m)<br>
+				-  10. Varianza acumulada (<a href= "https://drive.google.com/file/d/1POLgEHo7roBM17-q0ZM9GhabAePzH9bO/view?usp=drive_link">video</a> m)<br>
+				-  11. Ejemplo dataset dígitos (<a href= "https://drive.google.com/file/d/1j1br1fQj5dQBDf-mCjwNMI_2FjmMDdfU/view?usp=drive_link">video</a> m)<br>
+				-  12. Representación en términos de componentes principales (<a href= "https://drive.google.com/file/d/1A1GBvD51MmqGWsZB7ZRYCTuMNwvTJUuv/view?usp=drive_link">video</a> m)<br>
+				-  13. Visualización de componentes principales (<a href= "https://drive.google.com/file/d/1VLz2FMAOH8euah6E7CvMD_RwnX2V3vd4/view?usp=drive_link">video</a> m)<br>
 				<b>Recursos adicionales:</b><br>
+				<a href= "https://colab.research.google.com/drive/1UO8TZ4oRsjHhDOaIbU3xM0Ndsf_5QQb8#scrollTo=NUZUo2oOPz9h">Notebook: análisis de componentes principales</a><br>
 			</td>
 			<td>
 			</td>
